@@ -1,0 +1,55 @@
+/* https://flatuicolors.com/palette/ru */
+body{
+ background-color:#596275;
+}
+
+h1{
+ color: #3dc1d3;
+ text-align: center;
+ font-family: arial;
+ margin-top: 180px;
+}
+
+#pergunta{
+ background-color:  #303952;
+ border-color: #3dc1d3;
+ padding-left: 20px;
+ padding-right: 10px;
+ filter: drop-shadow(10px 10px 10px #303952);
+ color: #FFF;
+ height:40px;
+ width: 476px;
+ font-family: arial;
+ }
+
+
+#resposta{
+  height: 400px;
+  width: 476px;
+  background-color:  #303952;
+  border-color: #3dc1d3;
+  padding-left: 20px;
+  padding-right: 10px;
+  filter: drop-shadow(10px 10px 10px #303952);
+  color: #FFF;
+  font-family: arial;
+  margin-top: -140px;
+}
+#mudarcor{
+  display: block;
+} 
+button{
+ background-color: #303952;
+ color: #3dc1d3;
+  border-color: #3dc1d3;
+  height: 35px;
+  width: 100px;
+}
+
+  #pergunta:hover{
+ filter: drop-shadow(8px 8px 10px #3dc1d3);
+}
+
+button:hover{
+ filter: drop-shadow(8px 8px 10px #3dc1d3);
+}
